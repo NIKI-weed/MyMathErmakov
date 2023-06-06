@@ -1,0 +1,6 @@
+C:\Users\IMac9\source\repos\MathErmakov3ISP919\MyMath\bin\Debug\MyMath.dll
+C:\Users\IMac9\source\repos\MathErmakov3ISP919\MyMath\bin\Debug\MyMath.pdb
+C:\Users\IMac9\source\repos\MathErmakov3ISP919\MyMath\obj\Debug\MyMath.csproj.AssemblyReference.cache
+C:\Users\IMac9\source\repos\MathErmakov3ISP919\MyMath\obj\Debug\MyMath.csproj.CoreCompileInputs.cache
+C:\Users\IMac9\source\repos\MathErmakov3ISP919\MyMath\obj\Debug\MyMath.dll
+C:\Users\IMac9\source\repos\MathErmakov3ISP919\MyMath\obj\Debug\MyMath.pdb

@@ -1,0 +1,11 @@
+C:\Users\IMac9\source\repos\MathErmakov3ISP919\Main\bin\Debug\Main.exe.config
+C:\Users\IMac9\source\repos\MathErmakov3ISP919\Main\bin\Debug\Main.exe
+C:\Users\IMac9\source\repos\MathErmakov3ISP919\Main\bin\Debug\Main.pdb
+C:\Users\IMac9\source\repos\MathErmakov3ISP919\Main\bin\Debug\MyMath.dll
+C:\Users\IMac9\source\repos\MathErmakov3ISP919\Main\bin\Debug\MyMath.pdb
+C:\Users\IMac9\source\repos\MathErmakov3ISP919\Main\obj\Debug\Main.csproj.AssemblyReference.cache
+C:\Users\IMac9\source\repos\MathErmakov3ISP919\Main\obj\Debug\Main.csproj.SuggestedBindingRedirects.cache
+C:\Users\IMac9\source\repos\MathErmakov3ISP919\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\IMac9\source\repos\MathErmakov3ISP919\Main\obj\Debug\Main.csproj.CopyComplete
+C:\Users\IMac9\source\repos\MathErmakov3ISP919\Main\obj\Debug\Main.exe
+C:\Users\IMac9\source\repos\MathErmakov3ISP919\Main\obj\Debug\Main.pdb
